@@ -1,0 +1,55 @@
+
+#menu {
+    
+    display: inline-block;
+    float: right;
+}
+#greyline {
+    border: solid grey 3px;
+}
+#music{
+   float: right;
+ display: inline-block;
+ width: 150px;
+}
+
+#box {
+    width :100% ;
+    height: 25%;
+    border: solid black 2,5;
+    background-image:url(Nirvana.webp) ;
+    background-repeat: no-repeat;
+    background-size: 100% 25%;
+}
+#yellow {
+    color: #ffea00;
+    text-align: center;
+}
+#bg {
+    background-image: url(9-nirvana-in-shepherds-bush-martyn-goodacre.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+#list {
+    color: white;
+}
+
+#bgml {
+    background-color: gray;
+}
+.cover {
+    height: 300px;
+    width: 300px;
+}
+
+#bgmusic {
+    background-color: black;
+}
+
+#musiccenter {
+text-align: center;}
+
+.black {
+    background-color: black;
+}
+
